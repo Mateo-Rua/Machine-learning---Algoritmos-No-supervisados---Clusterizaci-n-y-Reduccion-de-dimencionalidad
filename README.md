@@ -136,14 +136,6 @@ Segmentar personas según métricas físicas (densidad corporal, porcentaje de g
 
 5. **El perfilamiento post-clustering** transforma los grupos numéricos en insights accionables para el negocio (perfiles de riesgo de salud, tipos de vino diferenciados).
 
----
-
-## 🔮 Mejoras Futuras
-
-- Evaluar algoritmos alternativos como DBSCAN y Agglomerative Clustering para comparar resultados.
-- Implementar Silhouette Score como métrica de validación de calidad de los clusters.
-- Explorar más de 2 componentes PCA y analizar el scree plot de varianza acumulada.
-- Agregar visualizaciones interactivas con Plotly para exploración dinámica de clusters.
 
 ---
 
